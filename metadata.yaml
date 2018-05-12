@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6222
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Oliphant_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36277#Piccadilly--A-Fragment-of-Contemporary-Biography
 gutenberg_issued: '2011-06-01'
 gutenberg_type: Text
 identifiers:
